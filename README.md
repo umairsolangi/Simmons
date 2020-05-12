@@ -1,3 +1,3 @@
 # simmons
 Education Website
-The Website host Here: umairsolangi.github.io/simmons
+The Website host Here: https://umairsolangi.github.io/simmons
